@@ -1,4 +1,4 @@
-# Learn Chaincode - RAJ GHANTA
+# Learn Chaincode
 
 A tutorial to get you started with writing smart contracts for Hyperledger.
 
